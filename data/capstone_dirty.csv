@@ -1,0 +1,101 @@
+﻿item,price,quantity,category,email
+,18.75,2,,buyer@example.com
+,12.50,2,Toy,invalid
+,,NA,Food,  ADMIN@EXAMPLE.COM 
+,,NA,,buyer@example.com
+ BOX-18 ,-8,,Toy,invalid
+box-28,12.50,2,Toy,invalid
+KIT-12,-8,2,TOY,  ADMIN@EXAMPLE.COM 
+kit-21,-8,0,,  ADMIN@EXAMPLE.COM 
+BAG-10,,2,,  ADMIN@EXAMPLE.COM 
+bag-27,18.75,5,,  ADMIN@EXAMPLE.COM 
+kit-39,-8,,Toy,invalid
+bag-39,12.50,1,Toy,invalid
+bag-12,-8,5,TOY,  ADMIN@EXAMPLE.COM 
+ BAG-17 ,-8,1,Food,  ADMIN@EXAMPLE.COM 
+KIT-18,450.00,0, FOOD ,buyer@example.com
+box-54,-8,0,Food,
+KIT-5,0,5,TOY,  ADMIN@EXAMPLE.COM 
+ KIT-52 ,18.75,NA,TOY,  ADMIN@EXAMPLE.COM 
+bag-16,450.00,1, FOOD ,invalid
+kit-31,12.50,1,Food,  ADMIN@EXAMPLE.COM 
+,0,2,,buyer@example.com
+ BAG-8 ,0,NA, FOOD ,invalid
+ BAG-17 ,12.50,1,,buyer@example.com
+,0,NA,Food,
+,18.75,5,,buyer@example.com
+ BAG-35 ,-8,2,Toy,invalid
+,,2,Toy,buyer@example.com
+bag-26,18.75,2,TOY,invalid
+,12.50,,,  ADMIN@EXAMPLE.COM 
+BAG-12,-8,1,Toy,invalid
+,-8,5, FOOD ,invalid
+,12.50,2,TOY,  ADMIN@EXAMPLE.COM 
+,error,,,buyer@example.com
+,0,5, FOOD ,
+box-35,18.75,NA,Food,  ADMIN@EXAMPLE.COM 
+KIT-7,error,,TOY,
+BOX-55,-8,0,TOY,
+ BAG-31 ,-8,5,,  ADMIN@EXAMPLE.COM 
+,error,1,Toy,invalid
+BOX-45,18.75,0,,invalid
+,18.75,5,Food,
+ KIT-8 ,0,0,TOY,buyer@example.com
+KIT-36,-8,2,,
+,450.00,,,  ADMIN@EXAMPLE.COM 
+BAG-33,0,2,Toy,
+box-13,450.00,5,TOY,buyer@example.com
+box-53,450.00,0,,  ADMIN@EXAMPLE.COM 
+,,2, FOOD ,  ADMIN@EXAMPLE.COM 
+,18.75,1,Food,buyer@example.com
+BOX-48,error,0,TOY,  ADMIN@EXAMPLE.COM 
+kit-39,error,5,,buyer@example.com
+ BAG-48 ,450.00,NA,Food,invalid
+,,2,,  ADMIN@EXAMPLE.COM 
+BAG-55,-8,, FOOD ,  ADMIN@EXAMPLE.COM 
+BAG-44,12.50,2,Toy,  ADMIN@EXAMPLE.COM 
+bag-53,18.75,0,Food,  ADMIN@EXAMPLE.COM 
+,0,2,Toy,
+BAG-4,450.00,,Toy,buyer@example.com
+BOX-20,,,Toy,buyer@example.com
+,18.75,1,Toy,  ADMIN@EXAMPLE.COM 
+kit-5,450.00,1,Food,  ADMIN@EXAMPLE.COM 
+KIT-20,450.00,2,Food,
+bag-41,-8,,Toy,  ADMIN@EXAMPLE.COM 
+box-11,450.00,, FOOD ,buyer@example.com
+,18.75,2,Food,  ADMIN@EXAMPLE.COM 
+box-52,12.50,,Food,invalid
+,18.75,5,,invalid
+ BAG-46 ,12.50,NA,Toy,buyer@example.com
+ BAG-22 ,error,5,TOY,
+ KIT-35 ,450.00,5,TOY,
+BOX-44,-8,5,,
+bag-35,-8,2,Toy,invalid
+,450.00,NA, FOOD ,invalid
+,,,,
+kit-41,0,0,Toy,buyer@example.com
+ BOX-46 ,18.75,2,,buyer@example.com
+BOX-10,,1,TOY,
+BOX-11,0,,,invalid
+bag-11,12.50,,TOY,buyer@example.com
+bag-44,0,2,Food,invalid
+BOX-55,error,5,Toy,  ADMIN@EXAMPLE.COM 
+,450.00,,Toy,
+BOX-40,-8,1,Toy,invalid
+,,5,TOY,invalid
+kit-1,450.00,0,,
+,12.50,0,TOY,
+,12.50,0, FOOD ,invalid
+ BOX-55 ,error,,Toy,
+,450.00,1,TOY,buyer@example.com
+BAG-45,,NA,,
+BOX-47,error,5, FOOD ,invalid
+ BOX-39 ,,NA,,invalid
+box-1,0,,Food,
+kit-24,error,2,Food,
+,,2,Food,buyer@example.com
+kit-53,450.00,,TOY,invalid
+kit-34,-8,2,TOY,invalid
+box-10,error,0,,buyer@example.com
+box-37,error,2,Toy,buyer@example.com
+box-8,error,0,TOY,  ADMIN@EXAMPLE.COM 

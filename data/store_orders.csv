@@ -1,0 +1,8 @@
+order_id,product_id,quantity,unit_price,status
+000101,201,2,145.0,new
+000102,202,1,800.0,paid
+000103,203,4,75.5,paid
+000104,201,3,145.0,cancelled
+000105,204,2,240.0,paid
+000106,202,1,800.0,new
+000107,203,7,75.5,paid

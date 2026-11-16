@@ -1,0 +1,17 @@
+[
+  {
+    "client_id": "C-1",
+    "city": "Казань",
+    "orders": 3
+  },
+  {
+    "client_id": "C-2",
+    "city": "Воронеж",
+    "orders": 1
+  },
+  {
+    "client_id": "C-3",
+    "city": "Москва",
+    "orders": 4
+  }
+]
